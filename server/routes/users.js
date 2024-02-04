@@ -4,7 +4,7 @@ import {
   getUserFriends,
   addRemoveFriend,
 } from "../controllers/users.js";
-import { verify } from "jsonwebtoken";
+// import { verify } from "jsonwebtoken";
 import { verifyToken } from "../middleware/auth.js";
 
 const router = express.Router();
