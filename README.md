@@ -1,6 +1,6 @@
 # Quill-Saga
 
-Code– Share– Thrive. One day at a time!
+## Code – Share – Thrive. One day at a time!
 
 - Track your progress and set goals with personalized dashboards and analytics
 - Share your developer journey, and get feedback in a much interest-optimized feed.
