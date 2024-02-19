@@ -6,3 +6,10 @@
 - Share your developer journey, and get feedback in a much interest-optimized feed.
 - Find projects, and collaborations that match your interests and skill sets
 - Connect and learn from mentors and industry professionals with video conferencing and appointment scheduling.
+
+Tech Stack
+ ReactJS, Redux
+ MongoDB
+ NodeJS, Multer
+ Formik, GridFS-Storage
+ WebRTC, Socket.io
