@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Quill Saga
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
